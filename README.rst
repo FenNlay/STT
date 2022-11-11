@@ -1,7 +1,7 @@
 **Coqui STT** (🐸STT) is a fast, open-source, multi-platform, deep-learning toolkit for training and deploying speech-to-text models. 🐸STT is battle tested in both production and research 🚀
 
 --------------
-##For Fabiennes model:
+#For Fabiennes model:
 To run the model, click on **Fabs_version_train_your_first_coqui_STT_model.ipynb**
 To run the original model, go to the folder "Notebooks" and choose the following: Train your first 🐸 STT model
 In both cases the model can be opened by clicking "Open in Colab"
